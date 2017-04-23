@@ -63,4 +63,4 @@ For details on using sfdx-simple, please review the [Salesforce DX Developer Gui
 
 ## Issues
 
-Please log issues related to this repository [here](https://github.com/forcedotcom/sfdx-simple/issues). i changed something
+Please log issues related to this repository [here](https://github.com/forcedotcom/sfdx-simple/issues)..
