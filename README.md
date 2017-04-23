@@ -1,4 +1,4 @@
-# SFDX Simple App
+﻿# SFDX Simple App
 
 > **Important:** Salesforce DX is available as a Pilot. Salesforce DX isn’t generally available unless or until Salesforce announces its general availability in documentation or in press releases or public statements. All commands, parameters, and other features are subject to change or deprecation at any time, with or without notice. Don't implement functionality developed with these commands or tools.
 
@@ -63,4 +63,4 @@ For details on using sfdx-simple, please review the [Salesforce DX Developer Gui
 
 ## Issues
 
-Please log issues related to this repository [here](https://github.com/forcedotcom/sfdx-simple/issues).
+Please log issues related to this repository [here](https://github.com/forcedotcom/sfdx-simple/issues)..
